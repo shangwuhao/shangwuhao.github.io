@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>404</title>
+	<meta http-equiv=”Content-Type” content=”text/html; charset="utf-8">
+</head>
+<body style="margin: 100px 300px;">
+	<br>
+	<br>
+	<br>
+	<h1>404!</h1>
+	<h1>这不是一个正确的地址!</h1>
+	<ul>
+		<li>This is not a correct URL!</li>
+		<li>Ce n'est pas l'URL correcte!</li>
+		<li>Esta no es la dirección correcta!</li>
+		<li>Это не правильный сайт!</li>
+		<li>هذا ليس العنوان الصحيح!!</li>
+	</ul>
+	<h2>请访问👉正确地址 : )<h2>
+</body>
+</html>
